@@ -1,4 +1,3 @@
-adobe-source-han-sans-jp-fonts
 alsa-firmware
 alsa-utils
 base-devel
@@ -16,6 +15,7 @@ figlet
 firefox
 gcc
 gimp
+git
 go
 jp2a
 lightdm
@@ -27,6 +27,7 @@ man-pages
 neofetch
 neovim
 pulseaudio-alsa
+sudo
 texlive
 texlive-langjapanese
 thunderbird
